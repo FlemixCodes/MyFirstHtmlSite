@@ -1,3 +1,3 @@
 # MyFirstHtmlSite
 
-GitHub Pages: FlemixCodes.github.io/MyFirstHtmlSite
+GitHub Pages: https://FlemixCodes.github.io/MyFirstHtmlSite
